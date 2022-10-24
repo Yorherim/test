@@ -1,2 +1,3 @@
 first
 second
+new text for task
